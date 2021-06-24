@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goldlightdrake
 - 👀 I’m interested in Dart/Flutter and Python development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Softwear testing
 - 📫 How to reach me goldlightdrake@gmail.com
 
 <!---
