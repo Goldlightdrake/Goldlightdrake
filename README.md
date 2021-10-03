@@ -2,6 +2,7 @@
 - 👀 I’m interested in Dart/Flutter and Python development
 - 🌱 I’m currently learning Softwear testing
 - 📫 How to reach me goldlightdrake@gmail.com
+- I'm currently working in Nokia as a Working Student 
 
 <!---
 Goldlightdrake/Goldlightdrake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
