@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Goldlightdrake
-- 👀 I’m interested in React.js
-- 🌱 I’m currently learning Next.js and Typescript
-- 📫 How to reach me goldlightdrake@gmail.com
-- I'm currently working in Better Softwear Group as a React Developer
+- 👋 Hi, my name is Piotrek!
+- 👀 I’m interested in Web and  Mobile development using React
+- 🌱 I’m currently learning Next.js
+- 📫 How to reach me piotr_graczyk@outlook.com
+- I'm currently working in Better Softwear Group as a React Native Developer
 
 <!---
 Goldlightdrake/Goldlightdrake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
