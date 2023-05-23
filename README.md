@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Piotrek!
-- 👀 I’m interested in Web and  Mobile development using React
-- 🌱 I’m currently learning Next.js
+- 👀 I’m interested mobile development using React Native and Expo
+- 🌱 I’m currently learning AI
 - 📫 How to reach me piotr_graczyk@outlook.com
 - I'm currently working in Better Media Solutions as a React Native Developer
 
